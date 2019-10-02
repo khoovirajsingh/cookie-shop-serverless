@@ -13,7 +13,7 @@ Resources:
   CodebuildOutputS3Bucket:
     Type: AWS::S3::Bucket
     Properties:
-      BucketName: cookie-shop-serverless-build-bucket
+      BucketName: cookie-shop-serverless-build-bucket-khoovi-kai
       PublicAccessBlockConfiguration:
         BlockPublicAcls: true
         BlockPublicPolicy: true
