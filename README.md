@@ -1,4 +1,6 @@
-https://codebuild.us-east-2.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiMGhubUYwNVdLRUFZQjRlL3d0UTBDQk00VjViUktVb1ZYcUlYNlg4clI3Z0dsWkdIbHRKdFk4SmJicnVjTmlGT2RJdFFTdTRuUU1mZ0lEeFNsWGVlSkwwPSIsIml2UGFyYW1ldGVyU3BlYyI6InZvT3hiRTgyLzh4WDJVR3UiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master
+
+
+![Build Status](https://codebuild.us-east-2.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiMGhubUYwNVdLRUFZQjRlL3d0UTBDQk00VjViUktVb1ZYcUlYNlg4clI3Z0dsWkdIbHRKdFk4SmJicnVjTmlGT2RJdFFTdTRuUU1mZ0lEeFNsWGVlSkwwPSIsIml2UGFyYW1ldGVyU3BlYyI6InZvT3hiRTgyLzh4WDJVR3UiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)
 
 cookie-shop-serverless
 ======================
